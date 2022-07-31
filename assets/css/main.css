@@ -1832,7 +1832,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(255, 255, 255, 0.95);
+		background: #B2C8DF;
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -2269,11 +2269,15 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	#hpvdt {
+		background-color: #F8F9D7; /* https://colorhunt.co/palette/6e85b7b2c8dfc4d7e0f8f9d7 */
+	}
+
 /* Contact */
 
 	#contact {
 		overflow: hidden;
-		padding-bottom: 0;
+		/*padding-bottom: 0;*/
 	}
 
 		#contact .box {
