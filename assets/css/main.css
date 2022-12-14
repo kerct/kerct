@@ -1840,7 +1840,6 @@ input, select, textarea {
 
 		#header h1 {
 			position: absolute;
-			left: 1em;
 			top: 0;
 			height: 3em;
 			line-height: 3em;
@@ -1848,8 +1847,15 @@ input, select, textarea {
 		}
 
 			#header h1 a {
-				font-size: 1.25em;
+				height: 100%;
+				display: flex;
+				align-items: center;
 			}
+
+		#header img {
+			height: 2em;
+			line-height: 2em;
+		}
 
 		#header nav {
 			position: absolute;
