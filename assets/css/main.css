@@ -2275,12 +2275,21 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	#work {
+		color: #ffffff;
+		background-color: #6E85B7; /* https://colorhunt.co/palette/6e85b7b2c8dfc4d7e0f8f9d7 */
+	}
+
+	#capstone {
+		background-color: #F8F9D7; 
+	}
+
 	#hpvdt {
-		background-color: #F8F9D7; /* https://colorhunt.co/palette/6e85b7b2c8dfc4d7e0f8f9d7 */
+		background-color: #F5F0BB; 
 	}
 
 	#rtos {
-		background-color: #F5F0BB;
+		background-color: #F8F9D7;
 	}
 
 /* Contact */
